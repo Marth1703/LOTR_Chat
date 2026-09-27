@@ -47,7 +47,6 @@ Open the local URL shown by Streamlit, select one or two characters, and start a
 - `UI.py` - Streamlit user interface and chat flow
 - `rag_memory.py` - AutoGen agents and vector-memory setup
 - `docs_indexer.py` - document loading and indexing
-- `Final/` - character and Lord of the Rings source documents
 - `prompts/` - character prompt files
 - `icons/` and `background.png` - interface assets
 
