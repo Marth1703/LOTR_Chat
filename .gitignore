@@ -194,3 +194,16 @@ cython_debug/
 .cursorindexingignore
 
 .chromadb_autogen/
+Final/frodo_lore.txt
+Final/frodo_pages.txt
+Final/frodo_wikipedia_info.txt
+Final/gandalf_lore.txt
+Final/gandalf_pages.txt
+Final/gandalf_wikipedia_info.txt
+Final/legolas_lore.txt
+Final/legolas_pages.txt
+Final/legolas_wikipedia_info.txt
+Final/LOTR_full.txt
+Final/sam_lore.txt
+Final/sam_pages.txt
+Final/sam_wikipedia_info.txt
